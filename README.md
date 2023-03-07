@@ -8,5 +8,6 @@ Watch tutorial on youtube. First commit
 # Thirsd headers
 test status
 
-# fourth
+# Local Development
+1. open index.html in your browser.
 
